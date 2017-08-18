@@ -6,7 +6,7 @@ end
 
 def is_even?(num)
     num.even?
-
+end
 
 def is_odd?(num)
     num.odd?
